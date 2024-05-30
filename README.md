@@ -1,4 +1,4 @@
-### Krunker Inspired Game
+## Krunker Inspired Game
 (2018)
 A 3D multiplayer first-person shooter made in Unity inspired by games such as Krunker and Counter-Strike set in a 3D virtual map..
 
